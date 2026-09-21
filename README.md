@@ -7,3 +7,7 @@
 - Web
 - app
 - ㅁㄹ
+
+## Tech Stack
+- python
+- c++
